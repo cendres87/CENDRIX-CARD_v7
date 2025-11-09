@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CENDRIX-CARD: Generador de Credenciales",
+  "description": "Crea credenciales visuales al instante a partir de una plantilla de imagen, datos CSV y una carpeta de fotos. Personaliza campos de texto e imagen, previsualiza en vivo y descarga todas las credenciales como un archivo zip.",
+  "requestFramePermissions": []
+}
